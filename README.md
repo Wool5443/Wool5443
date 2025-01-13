@@ -11,4 +11,4 @@
 * ⚡ Fun fact: I use Arch btw
 * 🛠️ My [dotfiles](https://github.com/Wool5443/dotfiles)
 
-[![](https://skillicons.dev/icons?i=arch,linux,neovim,c,cpp&perline=3)](https://skillicons.dev)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wool5443&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
